@@ -1,0 +1,25 @@
+##grflangid 0x3
+
+STR_GRF_NAME:Improved Generic Tram Set
+STR_GRF_DESCRIPTION:Ce NewGRF est basé sur Generic Tram Set (sous licence Creative Commons 3.0), mais apporte plusieurs améliorations, parmi lesquelles{}- Il y a toujours un tramway disponible après l’introduction du premier tramway, contrairement à Generic Tram Set où plus aucun tramway n’est disponible après 2050.{}- Il permet de réaménager les tramways pour transporter n’importe quelle marchandise, les rendant compatibles avec les remplacements d’industries comme FIRS.
+
+STR_BALOGH_PASSENGER_NAME:Tramway de passagers Balogh
+STR_SH_JUBILEE_NAME:Tramway de passagers SH 'Jubilee'
+STR_SH_ROYAL_NAME:Tramway de passagers SH 'Royal'
+STR_FOSTER_NAME:Tramway de passagers à 3 voitures Foster
+STR_A2020_NAME:Tramway de passagers à 3 voitures A2020
+
+STR_MPS_MAIL_NAME:Tramway postal MPS
+STR_SH08_MAIL_NAME:Tramway postal SH '08'
+STR_SH2000_MAIL_NAME:Tramway postal à 3 wagons SH '2000'
+
+STR_BALOGH_GOODS_NAME:Tramway de biens Balogh
+STR_MANLEY_MOREL_NAME:Tramway de biens Manley-Morel
+STR_FLOSS_NAME:Tramway de biens à 3 wagons Floss
+
+STR_BALOGH_ARMORED_NAME:Tramway blindé Balogh
+STR_MANLEY_MOREL_ARMORED_NAME:Tramway blindé Manley-Morel
+STR_FOSTER_ARMORED_NAME:Tramway blindé à 3 wagons Foster
+
+STR_WITCOMBE_TANKER_NAME:Tramway-citerne Witcombe
+STR_FLOSS_TANKER_NAME:Tramway-citerne Floss
